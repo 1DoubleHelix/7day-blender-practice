@@ -49,7 +49,7 @@
     - 快捷键：数字`0`，在编辑视图和摄像机视图之间切换
     - 快捷键：`N`，调出面板，打开**锁定摄像机到视图方位**，可以像拍照一样自由移动视角
 
-<img src="Day1/render.jpg" width = 50%/>
+<div align="center"><img src="Day1/render.jpg" width = 80%/></div>
 
 ---
 
@@ -102,7 +102,7 @@
     - 选中一些线段
     - `Ctrl`+`F`，栅格填充
 
-<img src="Day2/render.jpg" width = 50%/>
+<div align="center"><img src="Day2/render.jpg" width = 80%/></div>
 
 ---
 
