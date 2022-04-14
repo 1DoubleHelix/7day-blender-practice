@@ -2,8 +2,8 @@
 
 笔记总结（更新中）
 
-[教程](https://www.youtube.com/watch?v=e-fetDXDXX8&list=PLgO2ChD7acqH5S3fCO1GbAJC55NeVaCCp)  
-[教程中文翻译](https://www.bilibili.com/video/BV12T4y197Z5)
+[教程 YouTube](https://www.youtube.com/watch?v=e-fetDXDXX8&list=PLgO2ChD7acqH5S3fCO1GbAJC55NeVaCCp)  
+[教程 bilibili](https://www.bilibili.com/video/BV12T4y197Z5)
 
 ## DAY 1 基础
 
